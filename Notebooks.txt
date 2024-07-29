@@ -1,0 +1,5 @@
+https://github.com/jockisen/rnpd/raw/main/RNPD-A1111.ipynb
+https://github.com/jockisen/rnpd/raw/main/RNPD-ComfyUI.ipynb
+https://github.com/jockisen/rnpd/raw/main/RNPD-Dreambooth-v1.ipynb
+https://github.com/jockisen/rnpd/raw/main/RNPD-Dreambooth-v2.ipynb
+https://github.com/jockisen/rnpd/raw/main/SDXL-LoRA-RNPD.ipynb
